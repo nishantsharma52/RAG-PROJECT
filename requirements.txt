@@ -1,0 +1,54 @@
+# ==============================
+# RAG PROJECT REQUIREMENTS
+# ==============================
+
+# ---------- LangChain ----------
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# ---------- LLM Providers ----------
+# Groq
+groq
+langchain-groq
+
+# Google Gemini
+google-genai
+langchain-google-genai
+
+# Mistral AI
+mistralai
+langchain-mistralai
+
+# ---------- Embeddings ----------
+sentence-transformers
+
+# ---------- Vector Databases ----------
+faiss-cpu
+chromadb
+
+# ---------- Document Loaders ----------
+pypdf
+python-docx
+openpyxl
+unstructured
+
+# ---------- Environment Variables ----------
+python-dotenv
+
+# ---------- Web / API ----------
+requests
+httpx
+
+# ---------- Backend ----------
+fastapi
+uvicorn
+
+# ---------- Useful ----------
+numpy
+pandas
+tiktoken
+
+# ---------- UI ----------
+streamlit
