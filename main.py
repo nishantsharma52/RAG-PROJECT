@@ -1,4 +1,5 @@
 from dotenv import load_dotenv
+# use groq ai because it is free
 from langchain_groq import ChatGroq
 
 load_dotenv()
